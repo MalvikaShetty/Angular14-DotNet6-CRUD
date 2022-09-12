@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_cardDetails", "API_cardDetails.csproj", "{49A99EBA-35BB-49FB-9E9F-4620D0B8BEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A99EBA-35BB-49FB-9E9F-4620D0B8BEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A99EBA-35BB-49FB-9E9F-4620D0B8BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A99EBA-35BB-49FB-9E9F-4620D0B8BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A99EBA-35BB-49FB-9E9F-4620D0B8BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352BA0AB-C908-4172-BE39-93EC7C3FBED8}
+	EndGlobalSection
+EndGlobal
