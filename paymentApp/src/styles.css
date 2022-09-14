@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 .form-group label {
-    color: grey;
+    color: rgb(13, 17, 35);
   }
   
   .form-group input {
@@ -8,7 +8,7 @@
   }
   
   .form-group input::placeholder {
-    color: #c0bdbd;
+    color: #a9b3e9;
     font-weight: 300;
   }
   
@@ -24,4 +24,17 @@
   /*for invalid form controls*/
   input.invalid {
     border-color: red;
+  }
+
+  .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: rgb(3, 35, 66);
+    border-radius: 0.3rem;
+    color: rgb(173, 194, 195);
+}
+
+.table .thead-light th{
+    background-color:rgb(3, 35, 66);
+    color: rgb(173, 194, 195);
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYLGZa9CxRirG4WTtk4QrDldXvBpH29gO+hrlGWp4udhbPvoSZ/WI4FPbGB6nuZVJ/g0omWs+ZBQPefQyVVAYA==",
+  "dgSpecHash": "V7z//p4YZym/GhgHNiik5DUC6qgbrCRIAvjOkSJnBQk8gVjn6V8d2BJzCq3eU+z8Q1KaGOZ6ikA2Ern0ZzXjNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\malvi\\Angular\\API_cardDetails\\API_cardDetails.csproj",
+  "projectFilePath": "C:\\Users\\malvi\\Angular\\AngularDotNet6Second\\API_cardDetails\\API_cardDetails.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\malvi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\malvi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -3498,11 +3498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malvi\\Angular\\API_cardDetails\\API_cardDetails.csproj",
+      "projectUniqueName": "C:\\Users\\malvi\\Angular\\AngularDotNet6Second\\API_cardDetails\\API_cardDetails.csproj",
       "projectName": "API_cardDetails",
-      "projectPath": "C:\\Users\\malvi\\Angular\\API_cardDetails\\API_cardDetails.csproj",
+      "projectPath": "C:\\Users\\malvi\\Angular\\AngularDotNet6Second\\API_cardDetails\\API_cardDetails.csproj",
       "packagesPath": "C:\\Users\\malvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malvi\\Angular\\API_cardDetails\\obj\\",
+      "outputPath": "C:\\Users\\malvi\\Angular\\AngularDotNet6Second\\API_cardDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\malvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
