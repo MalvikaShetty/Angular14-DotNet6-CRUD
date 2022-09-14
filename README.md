@@ -22,7 +22,6 @@ Database used- MS SQLServer(local)
 4. Finally build and run the c# project as usual from the IDE
 
 **For Angular** <br/><br/>
-
 1. In the command prompt, go inside the project folder(here it is paymentApp) and type the command given below to compile it for the first time.
 ```
 ng serve
