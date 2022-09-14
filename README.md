@@ -28,5 +28,5 @@ ng serve
 ```
 That's all and you are good to go!
 
-*There are no security functions included
+*There are no security functions included*
 
