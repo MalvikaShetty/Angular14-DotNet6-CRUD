@@ -5,7 +5,7 @@ Database used- MS SQLServer(local)
 
 ## How to run
 **For c# solution** 
-1. In appsettings.json files, replace 'yourDatabase' with your own Database name.(Change has to be made in the line given below)
+1. In appsettings.json files, replace 'yourDatabase' with your own server name.(Change has to be made in the line given below)
 ```
 "ConnectionStrings": {
     "CardDetailApp": "Data Source=yourDatabase;Initial Catalog=CardDetailDb;Integrated Security=true;Encrypt=False;"
